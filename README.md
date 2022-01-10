@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Carolinecrepin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carolinecrepin&theme=radical&show_icons=true)](https://github.com/Carolinecrepin/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinecrepin&langs_count=5&theme=radical&show_icons=true)](https://github.com/Carolinecrepin/github-readme-stats)
