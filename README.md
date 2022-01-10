@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://app.daily.dev/Caroline_crepin"><img src="https://api.daily.dev/devcards/b97f49c1d9f944bdb025ea338aaae401.png?r=4al" width="400" alt="Caroline Crépin's Dev Card"/></a>
+
 
