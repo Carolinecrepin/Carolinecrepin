@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/Caroline_crepin"><img src="https://api.daily.dev/devcards/b97f49c1d9f944bdb025ea338aaae401.png?r=c2h" width="400" alt="Caroline Crépin's Dev Card"/></a>
+[![Carolinecrepin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carolinecrepin&theme=radical&show_icons=true)](https://github.com/Carolinecrepin/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinecrepin&langs_count=5&theme=radical&show_icons=true)](https://github.com/Carolinecrepin/github-readme-stats)
